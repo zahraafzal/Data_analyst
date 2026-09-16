@@ -1,0 +1,152 @@
+OrderID,Date,Product,Category,Quantity,UnitPrice,Region
+1,2025-05-21,T-Shirt,Fashion,2,1086.0,Karachi
+2,2025-02-14,Office Chair,Furniture,3,12568.0,Multan
+3,2025-04-22,Pen Pack,Stationery,1,136.0,Karachi
+4,2025-08-03,Watch,Accessories,1,5061.0,Karachi
+5,2025-01-04,Backpack,Accessories,5,2655.0,Karachi
+6,2025-03-21,Jacket,Fashion,7,,Karachi
+7,2025-02-19,Notebook,Stationery,2,73.0,Islamabad
+8,2025-08-24,Notebook,Stationery,5,85.0,Multan
+9,2025-05-31,Mobile Phone,Electronics,7,41209.0,Multan
+10,2025-01-24,Notebook,Stationery,4,83.0,Karachi
+11,2025-02-21,Study Table,Furniture,2,9640.0,Faisalabad
+12,2025-07-06,Study Table,Furniture,8,9244.0,Karachi
+13,2025-05-17,Notebook,Stationery,6,75.0,
+14,2025-05-06,Shoes,Fashion,3,4027.0,Karachi
+15,2025-04-23,Backpack,Accessories,7,2385.0,Islamabad
+16,2025-06-11,Laptop,Electronics,4,79827.0,Faisalabad
+17,2025-06-11,Study Table,Furniture,2,8480.0,Karachi
+18,2025-08-23,T-Shirt,Fashion,8,1175.0,Karachi
+19,2025-05-15,Study Table,Furniture,3,8544.0,Multan
+20,2025-03-12,Pen Pack,Stationery,7,146.0,Multan
+21,2025-02-26,Backpack,Accessories,2,2628.0,Karachi
+22,2025-08-05,T-Shirt,Fashion,3,1270.0,Multan
+23,2025-08-28,Mobile Phone,Electronics,7,43935.0,Multan
+24,2025-02-28,Study Table,Furniture,1,9325.0,Multan
+25,2025-08-11,Study Table,Furniture,6,8301.0,Karachi
+26,2025-05-15,Backpack,Accessories,1,2727.0,Multan
+27,2025-06-02,Headphones,Electronics,2,3759.0,Multan
+28,2025-03-24,Shoes,Fashion,4,3722.0,Multan
+29,2025-09-08,Watch,Accessories,1,5099.0,Lahore
+30,2025-06-07,Mobile Phone,Electronics,6,48408.0,Karachi
+31,2025-02-10,Laptop,Electronics,4,80670.0,Lahore
+32,2025-03-06,Jacket,Fashion,8,4040.0,Karachi
+33,2025-03-26,T-Shirt,Fashion,8,1307.0,Islamabad
+34,2025-04-13,Watch,Accessories,7,5464.0,Islamabad
+35,2025-09-22,Pen Pack,Stationery,6,148.0,Faisalabad
+36,2025-06-23,Mobile Phone,Electronics,4,42522.0,Lahore
+37,2025-01-04,Shoes,Fashion,4,4071.0,Lahore
+38,2025-01-17,Jacket,Fashion,1,3594.0,Islamabad
+39,2025-09-06,Mobile Phone,Electronics,4,43006.0,Karachi
+40,2025-08-31,Watch,Accessories,3,5223.0,Karachi
+41,2025-02-19,Backpack,Accessories,7,2345.0,Faisalabad
+42,2025-01-28,Notebook,Stationery,7,79.0,Lahore
+43,2025-02-25,Laptop,Electronics,7,78423.0,Karachi
+44,2025-03-13,Office Chair,Furniture,4,12087.0,Faisalabad
+45,2025-02-08,Headphones,Electronics,5,3474.0,Faisalabad
+46,2025-01-08,Watch,Accessories,2,4551.0,Lahore
+47,2025-09-04,Office Chair,Furniture,3,11775.0,Karachi
+48,2025-01-02,Pen Pack,Stationery,1,140.0,Faisalabad
+49,2025-09-07,Study Table,Furniture,8,8613.0,Karachi
+50,2025-01-30,Office Chair,Furniture,5,11322.0,Multan
+51,2025-01-30,Jacket,Fashion,1,3988.0,Lahore
+52,2025-03-22,Shoes,Fashion,8,4002.0,Lahore
+53,2025-02-05,Watch,Accessories,2,5351.0,Multan
+54,2025-05-07,Mobile Phone,Electronics,4,44134.0,Multan
+55,2025-08-03,Shoes,Fashion,1,4096.0,Multan
+56,2025-04-15,Shoes,Fashion,6,4348.0,Islamabad
+57,2025-06-03,Office Chair,Furniture,5,11750.0,Faisalabad
+58,2025-02-21,Notebook,Stationery,2,72.0,Lahore
+59,2025-03-09,Watch,Accessories,4,5006.0,Islamabad
+60,2025-03-22,Mobile Phone,Electronics,4,43826.0,Faisalabad
+61,2025-01-05,Watch,Accessories,5,5112.0,Multan
+62,2025-03-10,Study Table,Furniture,2,9790.0,Islamabad
+63,2025-03-21,Mobile Phone,Electronics,2,47182.0,Islamabad
+64,2025-04-15,Study Table,Furniture,4,9392.0,Islamabad
+65,2025-01-27,Watch,Accessories,8,4751.0,Lahore
+66,2025-01-23,T-Shirt,Fashion,7,1279.0,Lahore
+67,2025-05-15,Notebook,Stationery,3,82.0,Karachi
+68,2025-08-07,Jacket,Fashion,8,3839.0,Multan
+69,2025-03-18,Laptop,Electronics,2,68629.0,Multan
+70,2025-03-17,Laptop,Electronics,6,76238.0,Faisalabad
+71,2025-01-21,Headphones,Electronics,1,3366.0,Islamabad
+72,2025-07-01,Office Chair,Furniture,4,12401.0,Multan
+73,2025-05-02,Pen Pack,Stationery,3,163.0,Karachi
+74,2025-06-20,Headphones,Electronics,7,3167.0,Faisalabad
+75,2025-02-25,T-Shirt,Fashion,4,1144.0,Faisalabad
+76,2025-08-24,Laptop,Electronics,8,70837.0,Islamabad
+77,2025-04-09,Study Table,Furniture,4,8501.0,Faisalabad
+78,2025-05-23,Notebook,Stationery,5,86.0,Islamabad
+79,2025-06-19,T-Shirt,Fashion,7,1243.0,Lahore
+80,2025-05-16,Mobile Phone,Electronics,5,42107.0,Lahore
+81,2025-06-10,Mobile Phone,Electronics,7,43611.0,Faisalabad
+82,2025-04-08,Shoes,Fashion,2,3908.0,Islamabad
+83,2025-04-11,Laptop,Electronics,7,67525.0,Islamabad
+84,2025-06-19,Pen Pack,Stationery,2,163.0,Multan
+85,2025-06-03,Notebook,Stationery,2,84.0,Multan
+86,2025-06-01,Study Table,Furniture,7,8687.0,Multan
+87,2025-07-14,Headphones,Electronics,4,3444.0,Karachi
+88,2025-01-01,Shoes,Fashion,5,3925.0,Islamabad
+89,2025-06-14,Study Table,Furniture,4,8874.0,Faisalabad
+90,2025-09-19,Backpack,Accessories,8,2588.0,Faisalabad
+91,2025-05-26,Jacket,Fashion,3,3921.0,Multan
+92,2025-05-01,T-Shirt,Fashion,6,1102.0,Islamabad
+93,2025-01-24,Office Chair,Furniture,4,11154.0,Karachi
+94,2025-04-10,Backpack,Accessories,2,2478.0,Faisalabad
+95,2025-01-03,Backpack,Accessories,7,2372.0,Lahore
+96,2025-09-23,Pen Pack,Stationery,4,140.0,Faisalabad
+97,2025-03-04,Laptop,Electronics,4,81262.0,Faisalabad
+98,2025-06-12,Headphones,Electronics,8,3617.0,Faisalabad
+99,2025-08-17,Shoes,Fashion,7,4264.0,Karachi
+100,2025-05-07,Jacket,Fashion,8,3762.0,Islamabad
+101,2025-05-21,Watch,Accessories,8,5127.0,Faisalabad
+102,2025-06-21,Mobile Phone,Electronics,5,42610.0,Islamabad
+103,2025-04-29,Watch,Accessories,2,4638.0,Faisalabad
+104,2025-02-02,Jacket,Fashion,3,3957.0,Faisalabad
+105,2025-08-01,Pen Pack,Stationery,6,151.0,Lahore
+106,2025-01-11,Office Chair,Furniture,7,11735.0,Multan
+107,2025-06-30,Pen Pack,Stationery,8,135.0,Islamabad
+108,2025-04-23,Pen Pack,Stationery,7,151.0,Faisalabad
+109,2025-01-15,Office Chair,Furniture,5,11846.0,Faisalabad
+110,2025-08-28,Notebook,Stationery,7,84.0,Karachi
+111,2025-01-14,Shoes,Fashion,1,4326.0,Lahore
+112,2025-08-25,T-Shirt,Fashion,7,1113.0,Karachi
+113,2025-04-19,Laptop,Electronics,5,73187.0,Faisalabad
+114,2025-07-14,Notebook,Stationery,6,84.0,Islamabad
+115,2025-08-29,Pen Pack,Stationery,5,160.0,Lahore
+116,2025-06-29,Jacket,Fashion,1,4180.0,Karachi
+117,2025-01-21,T-Shirt,Fashion,2,1267.0,Lahore
+118,2025-03-20,Office Chair,Furniture,4,12814.0,Karachi
+119,2025-04-22,Headphones,Electronics,8,3619.0,Faisalabad
+120,2025-03-27,Jacket,Fashion,5,4003.0,Multan
+121,2025-03-25,Shoes,Fashion,2,4222.0,Islamabad
+122,2025-07-12,Mobile Phone,Electronics,1,48860.0,Faisalabad
+123,2025-05-05,Jacket,Fashion,4,3478.0,Lahore
+124,2025-03-03,Jacket,Fashion,5,4066.0,Multan
+125,2025-07-09,Laptop,Electronics,6,75491.0,Lahore
+126,2025-08-04,Watch,Accessories,6,4513.0,Faisalabad
+127,2025-08-24,Mobile Phone,Electronics,7,49147.0,Karachi
+128,2025-05-19,Pen Pack,Stationery,3,157.0,Multan
+129,2025-05-18,Watch,Accessories,8,4965.0,Islamabad
+130,2025-08-19,Office Chair,Furniture,2,11469.0,Karachi
+131,2025-09-11,Backpack,Accessories,7,2418.0,Islamabad
+132,2025-05-13,Headphones,Electronics,8,3298.0,Islamabad
+133,2025-09-22,Study Table,Furniture,5,9100.0,Karachi
+134,2025-09-08,Mobile Phone,Electronics,4,46981.0,Multan
+135,2025-09-09,Office Chair,Furniture,8,12350.0,Faisalabad
+136,2025-07-27,Laptop,Electronics,2,71914.0,Karachi
+137,2025-06-26,Study Table,Furniture,6,8952.0,Faisalabad
+138,2025-08-21,Jacket,Fashion,6,3687.0,Islamabad
+139,2025-04-09,Study Table,Furniture,5,8515.0,Islamabad
+140,2025-09-05,Mobile Phone,Electronics,3,42224.0,Islamabad
+141,2025-04-10,Jacket,Fashion,5,4165.0,Islamabad
+142,2025-01-08,Office Chair,Furniture,6,11231.0,Multan
+143,2025-01-28,Headphones,Electronics,5,3182.0,Multan
+144,2025-09-09,Study Table,Furniture,3,9248.0,Lahore
+145,2025-08-14,Laptop,Electronics,5,74541.0,Islamabad
+146,2025-09-02,Headphones,Electronics,1,3327.0,Lahore
+147,2025-01-28,Mobile Phone,Electronics,7,44926.0,Karachi
+148,2025-05-08,Headphones,Electronics,5,3210.0,Lahore
+149,2025-04-26,Watch,Accessories,7,5106.0,Multan
+150,2025-06-02,Pen Pack,Stationery,8,162.0,Multan
+4,2025-08-03,Watch,Accessories,1,5061.0,Karachi
